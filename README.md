@@ -1,2 +1,2 @@
-# soaka-releases
-Soaka desktop installers and update feeds
+# sowhy-releases
+Sowhy desktop installers and update feeds
